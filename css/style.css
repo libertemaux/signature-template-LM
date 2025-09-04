@@ -1,0 +1,47 @@
+
+body {
+  padding: 40px;
+  background: #EEE;
+  font-family: 'Roboto','Arial', sans-serif;
+  font-size: 12px;
+}
+
+.wrapper {
+  width: 860px;
+  margin: 0 auto;
+  text-align: center;
+  height:350px;
+}
+
+.wrapper2 {
+  margin-top:300px;
+  width: 860px;
+  margin: 0 auto;
+  text-align: center;
+}
+
+
+.wrapper .title {
+  margin-bottom: 40px;
+}
+
+.signature {
+  float: left;
+  width: 400px;
+  background: #FFF;
+   border: 1px solid #CCC;
+   padding : 15px;
+}
+
+.form {
+  width: 400px;
+  float: left;
+  margin-right: 20px;
+}
+
+input {
+  width: 380px;
+  margin-bottom: 7px;
+  padding: 14px 8px;
+  border: 1px solid #CCC;
+}
